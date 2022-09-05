@@ -1,0 +1,66 @@
+.todo-container{
+    background: black;
+    width: 70vw;
+    margin: 10em auto;
+    border-radius: 5px;
+    padding: 15px;
+    color: white;
+}
+
+.header{
+    margin: auto;
+    font-size: 2em;
+    text-align: center;
+    background: blue;
+    width: 70vw;
+}
+.input-container{
+    background: black;
+    margin-top: auto;
+    padding: 0.5em;
+    border-radius: 0.5em;
+    border: 2px solid yellow;
+
+}
+.input{
+    font-size: 1.5em;
+    font-weight: bold;
+    background-color: white;
+    color: rebeccapurple;
+    border: 0.5px;
+    border-radius: 0.5em;
+    margin: 0.5em;
+    width: auto;
+    padding: auto;
+
+}
+.button{
+    border-radius: 5px;
+    font-size: 2em;
+    margin: 2px;
+    margin: 2px 5px;
+    border: none;
+    cursor: pointer;
+    color: rebeccapurple;
+    background-color:bisque;
+}
+.list{
+    font-size: 1.25em;
+    font-weight:bold ;
+    font-style: italic;
+    color: yellow;
+    background-color: black;
+    border: 1.5px;
+    padding: .5em;
+    margin: .5em;
+}
+.del-btn{
+    border-radius: 5px;
+    margin: 0px 5px;
+    padding: 3px 5px;
+    cursor: pointer;
+    color: red;
+    background-color: goldenrod;
+    font-weight: bold;
+    font-size: 1em;
+}
