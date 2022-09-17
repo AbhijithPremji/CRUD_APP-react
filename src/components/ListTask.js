@@ -4,7 +4,7 @@ function ListTask({task,index,removetask}) {
   return (
     <>
         <div className='list'>
-            {task.title}
+            {task.title} 
             <button onClick={()=>{removetask(index)}} className='del-btn'>Delete(X)</button>
         </div>
     </>

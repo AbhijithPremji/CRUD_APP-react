@@ -13,7 +13,7 @@ function AddTask({addtask}) {
  
   return (
     <div>
-        <div className='input-container'>
+        <div className='main-container'>
             <input type = "text" className='input' placeholder='enter a new task'
             value={value}
             onChange={(e)=>{setvalue(e.target.value)}}
